@@ -1,8 +1,8 @@
-# 안녕하세요, 김예지입니다 👋
+# 안녕하세요, 김예지입니다 
 
 정보통계학 전공 · 통계적 사고와 의료 데이터 분석 경험으로 비즈니스 문제를 해결합니다.
 
-## 🛠️ Skills
+## Skills
 
 **능숙** — R, Pandas, Scikit-Learn, XGBoost, Matplotlib/Seaborn, Excel(고급), Jupyter Notebook
 **중급** — Python, SQL, Streamlit, Git/GitHub
@@ -15,7 +15,7 @@
 | [MIMIC-IV Sepsis 예측](https://github.com/kyjwise7-hub/mimic-iv-deterioration-prediction) | ICU 환자 18,001명 대상 24h 사망 예측 · **AUROC 0.916** | Python, XGBoost |
 | [LOOK 감염병 모니터링](https://github.com/kyjwise7-hub/clinical-nlp-look) | 558개 의료 문서 NLP 파이프라인 · **F1 0.86** | Python, KM-BERT |
 
-## 📜 Certificates
+## Certificates
 
 ADsP · 사회조사분석사 2급 · TOEIC 815
 
