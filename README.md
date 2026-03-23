@@ -13,7 +13,7 @@
 |---------|------|------|
 | [대중교통×관광 분석](https://github.com/kyjwise7-hub/transit-tourism-analysis) | 17개 지자체 교통 인프라 → PCA 종합지수 → 관광 변수 다중회귀 · **최우수상** | R |
 | [MIMIC-IV Sepsis 예측](https://github.com/kyjwise7-hub/mimic-iv-deterioration-prediction) | ICU 환자 18,001명 대상 24h 사망 예측 · **AUROC 0.916** | Python, XGBoost |
-| [LOOK 감염병 모니터링](https://github.com/kyjwise7-hub/clinical-nlp-look) | 558개 의료 문서 NLP 파이프라인 · **F1 0.86** | Python, KM-BERT |
+| [LOOK 감염병 모니터링](https://github.com/kyjwise7-hub/clinical-nlp-look) | 558개 의료 문서 NLP 파이프라인 · **F1 0.86** (합성 데이터 제작, silver label 기준)| Python, KM-BERT |
 
 ## Certificates
 
