@@ -22,4 +22,4 @@ ADsP · 사회조사분석사 2급 · TOEIC 815
 ## 📫 Contact
 
 - **Portfolio:** [kyjwise7.oopy.io](https://kyjwise7.oopy.io)
-- **Email:** [이메일 주소]
+- **Email:** [kyjwise7@gmail.com]
