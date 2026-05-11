@@ -1,6 +1,6 @@
 # 안녕하세요, 김예지입니다 
 
-정보통계학 전공 · 통계적 사고와 의료 데이터 분석 경험으로 비즈니스 문제를 해결합니다.
+정보통계학 전공 · 통계적 사고와 의료 데이터 분석 경험으로 비즈니스 문제를 해결하고자 하는 김예지입니다.
 
 ## Skills
 
@@ -21,5 +21,5 @@ ADsP · 사회조사분석사 2급 · TOEIC 815
 
 ## 📫 Contact
 
-- **Portfolio:** [kyjwise7.oopy.io](https://kyjwise7.oopy.io)
+- **Portfolio:** [포트폴리오 노션]((https://www.notion.so/3298cfa323e8806f86c7e9830cdcd2ee))
 - **Email:** [kyjwise7@gmail.com]
