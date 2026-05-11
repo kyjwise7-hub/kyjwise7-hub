@@ -21,5 +21,5 @@ ADsP · 사회조사분석사 2급 · TOEIC 815
 
 ## 📫 Contact
 
-- **Portfolio:** [포트폴리오 노션]((https://www.notion.so/3298cfa323e8806f86c7e9830cdcd2ee))
+- **Portfolio:** [포트폴리오 노션][https://www.notion.so/3298cfa323e8806f86c7e9830cdcd2ee]
 - **Email:** [kyjwise7@gmail.com]
